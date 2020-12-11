@@ -3,11 +3,6 @@
 
 ### Getting Started
 
-### Install the Pypi package using pip
-```
-pip install search3D
-```
-
 Complete example of using
 ```python
 import search3D
