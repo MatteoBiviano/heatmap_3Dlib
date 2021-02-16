@@ -7,6 +7,8 @@
 From https://pypi.org/project/heatmap3Dlib/0.1.1/
 ```
 pip install heatmap3Dlib==0.1.1
+            or
+pip install heatmap3Dlib
 ```
 
 Complete example of using
