@@ -4,8 +4,9 @@
 ### Getting Started
 
 ### Install the Pypi package using pip
+From https://pypi.org/project/heatmap-3Dlib/0.1.0/
 ```
-pip install heatmap3Dlib
+pip install heatmap-3Dlib==0.1.0
 ```
 
 Complete example of using
