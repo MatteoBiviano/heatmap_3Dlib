@@ -71,17 +71,10 @@ return: tuple <axis, figure, colorbar>
 
 ### Other Output Examples
 <p align=center>
-    <img src="prova1.jpg" width="200" height="200">
-</p>
-<p align=center>
-    <img src="prova2.jpg" width="200" height="200">
-</p>
-<p align=center>
-    <img src="prova3.jpg" width="200" height="200">
-</p>
-<p align=center>
-    <img src="prova4.jpg" width="200" height="200">
-</p>
-<p align=center>
-    <img src="prova5.jpg" width="200" height="200">
+    <img src="prova1.jpg" width="400" height="331">
+    <img src="prova2.jpg" width="400" height="331">
+    <img src="prova3.jpg" width="400" height="331">
+    <img src="prova4.jpg" width="400" height="331">
+    <img src="prova5.jpg" width="400" height="331">        
+    
 </p>
