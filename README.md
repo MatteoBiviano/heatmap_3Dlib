@@ -69,3 +69,19 @@ Function that use matplotlib voxels for visualize grid search results
 return: tuple <axis, figure, colorbar>
 ```
 
+### Other Output Examples
+<p align=center>
+    <img src="prova1.jpg" width="200" height="200">
+</p>
+<p align=center>
+    <img src="prova2.jpg" width="200" height="200">
+</p>
+<p align=center>
+    <img src="prova3.jpg" width="200" height="200">
+</p>
+<p align=center>
+    <img src="prova4.jpg" width="200" height="200">
+</p>
+<p align=center>
+    <img src="prova5.jpg" width="200" height="200">
+</p>
