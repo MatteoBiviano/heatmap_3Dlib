@@ -20,7 +20,7 @@ x_ticks = ["", "None", "       2", "","5", "       10", "", "15 ", "       20"]
 y_ticks = ["", "", "2", "5",  "10", "15", "20"]
 z_ticks = ["    1","     5", "     10", "    15", "   20"]
 
-ax, fig, cbr = p3D.heatmap_3d(path = "DecisionTree/GridSearch/recall_resultDT.csv", metric = "recall", optimal = [0, 2, 20], 
+ax, fig, cbr = p3D.heatmap_3d(path = "Examples/recall_resultDT.csv", metric = "recall", optimal = [0, 2, 20], 
             crt = ("criterion",'gini'), 
             param1 = "max_depth",
             param2 = "min_samples_split",
