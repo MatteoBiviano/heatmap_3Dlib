@@ -11,7 +11,8 @@ pip install heatmap3Dlib==0.1.1
 pip install heatmap3Dlib
 ```
 
-Complete example of using
+### Complete example of using
+See the Examples folder where you will find examples of gridsearch results
 ```python
 import heatmap3Dlib
 from heatmap3Dlib import plot3D as p3D
