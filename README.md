@@ -46,7 +46,7 @@ fig.savefig("DT_all.png", format="png")
 ### Clone the repo
 Get a copy of this repo using git clone
 ```
-git clone https://github.com//heatmap3Dlib.git
+git clonehttps://github.com/MatteoBiviano/heatmap_3Dlib.git
 ```
 
 ### Functions heatmap_3d
