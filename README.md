@@ -71,13 +71,7 @@ fig.savefig("DT_all.png", format="png")
     <img src="heatmap3D_DecisionTree.png" width="440" height="331">
 </p>
 
-
-### Other Output Examples
-<p align=center>
-    <img src="Examples/prova3.jpg" width="400" height="331">
-    <img src="Examples/prova5.jpg" width="400" height="331">            
-</p>
-
+Other output examples can be seen in the "Examples" folder
 
 ### Function heatmap_bi
 
