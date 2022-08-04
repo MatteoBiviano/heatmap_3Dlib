@@ -135,5 +135,5 @@ plt.show()
 
 ### Example results
 <p align=center>
-    <img src="example_powerbi.png" width="640" height="531">
+    <img src="example_powerbi.png">
 </p>
