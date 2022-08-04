@@ -127,7 +127,7 @@ ax.set_zticklabels(z_ticks, fontsize=12)
 ax.set_xlabel("max_depth", fontsize=15, labelpad=10)
 ax.set_ylabel("min_samples_split", fontsize=15, labelpad=10)
 ax.set_zlabel("min_samples_leaf", fontsize=15, labelpad=10)
-ax.set_title(f"Criterion - crt[1]", fontsize=15, loc='center', pad=15)
+ax.set_title(f"Criterion - {crt[1]}", fontsize=15, loc='center', pad=15)
 ax.view_init(30,300)
 plt.show()
 
@@ -137,3 +137,7 @@ plt.show()
 <p align=center>
     <img src="example_powerbi.png">
 </p>
+
+
+https://user-images.githubusercontent.com/40687241/182823260-49e0b8d2-ca66-47ba-9e2f-3c7e88cbaace.mp4
+
