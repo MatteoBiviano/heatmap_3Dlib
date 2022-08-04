@@ -74,12 +74,8 @@ fig.savefig("DT_all.png", format="png")
 
 ### Other Output Examples
 <p align=center>
-    <img src="Examples/prova1.jpg" width="400" height="331">
-    <img src="Examples/prova2.jpg" width="400" height="331">
     <img src="Examples/prova3.jpg" width="400" height="331">
-    <img src="Examples/prova4.jpg" width="400" height="331">
-    <img src="Examples/prova5.jpg" width="400" height="331">        
-    
+    <img src="Examples/prova5.jpg" width="400" height="331">            
 </p>
 
 
