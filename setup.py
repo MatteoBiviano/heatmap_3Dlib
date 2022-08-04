@@ -4,9 +4,9 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setup(
-    name='heatmap3D',
+    name='heatmap3Dlib',
     packages=find_packages(include=['heatmap3Dlib']),
-    version='0.1.0',
+    version='0.2.2',
     description='3D heatmap plot library',
     author='Matteo Biviano',
     long_description=long_description,
