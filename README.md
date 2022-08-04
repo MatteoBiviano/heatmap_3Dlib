@@ -66,6 +66,22 @@ ax.set_title(f"Criterion - - {ctr[1]}", fontsize=15, loc='center', pad=15)
 ax.view_init(30,300)
 fig.savefig("DT_all.png", format="png")
 ```
+### Example results
+<p align=center>
+    <img src="heatmap3D_DecisionTree.png" width="440" height="331">
+</p>
+
+
+### Other Output Examples
+<p align=center>
+    <img src="Examples/prova1.jpg" width="400" height="331">
+    <img src="Examples/prova2.jpg" width="400" height="331">
+    <img src="Examples/prova3.jpg" width="400" height="331">
+    <img src="Examples/prova4.jpg" width="400" height="331">
+    <img src="Examples/prova5.jpg" width="400" height="331">        
+    
+</p>
+
 
 ### Function heatmap_bi
 
@@ -116,3 +132,8 @@ ax.view_init(30,300)
 plt.show()
 
 ```
+
+### Example results
+<p align=center>
+    <img src="example_powerbi.png" width="440" height="331">
+</p>
